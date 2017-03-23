@@ -1,0 +1,573 @@
+body {
+  position: relative;
+}
+
+.anchor {
+	padding-top: 50px;
+}
+
+#logo {
+	position: relative;
+	top: -20px;
+	float: right;
+	max-width: 200px;
+	max-height: 200px;
+}
+
+#verein {
+	left: 20px !important;
+	margin-top: 40px !important;
+}
+
+h1, 
+h2,
+h3 {
+	font-family: Cabin, Futura, Helvetica, Arial, sans-serif;
+}
+
+.glyphicon-envelope, .glyphicon-phone {
+	padding-right: 9px;
+}
+
+	font-size: 1.1em;
+    padding: 20px;
+	font-family: Georgia, Cambria, Palatino, Times, serif;
+}
+
+.glyphicon {
+	margin-right: 2px;
+}
+
+.column p {
+	padding-top: 10px;
+	font-family: Georgia, Cambria, Palatino, Times, serif;
+}
+
+#support {
+	padding-right: 70px;
+}
+
+#aims-list {
+	margin-top: 32px;
+	margin-right: 10px;
+}
+
+.glyphicon {
+	margin-right:2px;
+}
+
+.navbar {
+	background-color: #336699!important;
+}
+
+.nav {
+	position: static;
+	top: 0;
+	margin-right: 20px!important;
+	z-index: 1;
+}
+
+.carousel {
+	margin-top: -45px;
+  	margin-left: -60px;
+  	margin-right: -60px;
+  	margin-bottom: -48px;
+}
+
+.nav ul li {
+	display: inline-block;
+	padding: 20px 10px 20px;
+}
+
+#bs-example-navbar-collapse-1 ul li a {
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+}
+
+.dropdown-menu * {
+	margin-top: -7px!important;
+	margin-bottom: -7px!important;
+}
+
+.dropdown-menu {
+	background-color: #336699!important;	
+}
+
+.dropdown-menu a:hover {
+	background-color: #336699!important;	
+}
+
+#buttondiv {
+   text-align: center;
+    height: 600px;
+    width: 100%;
+    padding: 10px;
+}
+
+.nav a:hover {
+	color: #ff0;
+	text-decoration: none;
+	transition: color 600ms;
+	-webkit-transition: color 600ms;
+}
+
+#carousel-example-generic {
+}
+
+#downloadimage a {
+	background-color: white;
+	color: #336699;
+}
+
+#downloadimage a:hover {
+	text-decoration: none;
+	color: orange;
+}
+
+#downlist {
+	font-size: 1.3em;
+	list-style-type: none;
+}
+
+#downlist li {
+	font-size: 1.4em;
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
+}
+
+.panel-heading a{
+	font-size: 125%;
+	font-family: Cabin Sketch, Helvetica, cursiv, sans-serif;
+}
+
+#studyTwo {
+	 	padding-top: 10px;
+}
+
+#collapseTwo {
+	background-image: url(../img/cuba-bridge-md.jpg);
+	background-position: center; 
+ 	background-size: cover;
+    background-attachment: fixed;
+ 	width: 100%;
+ 	color: white;
+ 	padding: 100px;
+ 	padding-top: 50px;
+ 	padding-left: 20px;
+ 	font-size: 1.4em;
+ 	height: 800px;
+ 	margin-bottom: 1.5em;
+}
+
+#collapseThree {
+ 	background-image: url(../img/cuba-vinales.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    padding:20px;
+    padding-top: 50px;
+    height: 800px;
+    font-size: 1.4em;
+    margin-bottom: 1.5em;
+}
+
+#collapseFour {
+ 	background-image: url(../img/monte.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    padding:20px;
+    padding-top: 50px;
+    height: 800px;
+    font-size: 1.4em;
+    padding-bottom: 1.5em;
+}
+
+#aims {
+ 	background-image: url(../img/arrow-md.jpg);
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	width: 100%;
+ 	color: black;
+ 	height: 800px;
+ 	margin-bottom: 1.5em;
+}
+
+#aims-satzung {
+	padding-top: 375px;
+}
+
+#contact-list {
+	margin-left: 55px; 
+	margin-top: 42px;
+}
+#contact-list ul {
+	list-style-type: none; 
+	margin-top: -37px;
+	margin-left: -12px;
+}
+
+#member {
+	background-image: url(../img/camin-md.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    padding:100px;
+    padding-top: 50px;
+    height: 800px;
+ 	margin-bottom: 1.5em;
+ 	padding: 83px 10px 70px 40px;
+ 	font-size: 1.2em;
+}
+
+#member a {
+	color: yellow;
+}
+
+#memberright {
+	margin-top: -60px;
+}
+
+ul#konto {
+	list-style-type: none;
+}
+
+#fullCalModal {
+	margin: 60px;
+}
+
+#eventUrl {
+	color: white;
+	text-decoration: none;
+}
+
+#drums {
+	display: none;
+	text-decoration: none;
+}
+
+img {
+	width: 100%;
+}
+footer {
+	padding-top: 30px;
+}
+
+#footing1 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 0.9em;
+}
+
+#footing1 a {
+padding-left: 35px;
+}
+
+#footing2 > p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #336699;
+	font-size: 0.9em;	
+}
+
+.perceptika {
+	text-transform: uppercase;
+	margin-left: 20px;
+}
+
+.perceptika a {
+	color: white!important;
+	text-decoration: none!important;
+}
+
+.panel-heading > h2 {
+	background-color: white;
+}
+
+.panel-title {
+	color: #336699;
+}
+
+.glyphicon {
+	margin-right: 2px;
+}
+
+.glyphicon: hover {
+	color: #ff0;
+	transition: color 900ms;
+}
+
+.fb-like {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 74%;
+	float: left;
+}
+
+.twitter-follow-button {
+	margin-top: 10px;
+	padding-right: 
+}
+
+.block {
+	background-color: #33ccff!important;
+	padding-top: 23px!important;
+	padding-bottom: 23px!important;	
+	padding-left: 23px!important;
+	font-size: 1.2em!important;
+}
+
+.modul {
+	background-color: #ff6633!important;
+	padding-top: 2px!important;
+	font-size: 1.1em!important;
+}
+
+#video1, #video2 {
+	display: none;
+}
+
+@media only screen and (min-width : 1025px) {
+    .desktop-img {
+        display: block !important;
+    }
+    .tablet-img {
+        display: none !important;
+    }
+    .smartphone-img {
+        display: none !important;
+    }
+    #downloadimage {
+    	background-image: url(../img/waterfall_1920.jpg);
+  	 	background-attachment: fixed;
+	 	background-size: cover;
+	 	background-repeat: no-repeat;
+	 	color: white;
+	 	height: 800px;
+	 	padding-top: 100px;
+	 	margin-bottom: 1.5em;
+    }
+	#contactimage {
+	 	background-image: url(../img/contact-lg.jpg);
+	    background-attachment: fixed;
+	    background-size: cover;
+	    color: white;
+	    padding:100px;
+	    padding-top: 50px;
+	    height: 800px;
+	}
+	#collapseOne {
+		background-image: url(../img/havana-capitolio.jpg);
+	    background-attachment: fixed;
+	    background-size: cover;
+		color: white;
+	    padding:20px;
+	    padding-top: 50px;
+	    height: 800px;
+	 	font-size: 1.25em;
+	 	margin-bottom: 1.5em;
+	}	
+	#collapseOne a, #collapseTwo a, #collapseThree a, #collapseFour a {
+		color: yellow;
+	}
+}
+
+@media only screen and (min-width : 401px) and (max-width : 1024px){
+    .desktop-img {
+        display: none !important;
+    }
+    .tablet-img {
+        display: block !important;
+    }
+    .smartphone-img {
+        display: none !important;
+    }
+	#dance img src {
+		display: none !important;
+	}
+	#downloadimage {
+    	background-image: url(../img/waterfall_1024.jpg);
+     	background-attachment: fixed;
+	 	background-size: cover;
+	 	background-repeat: no-repeat;
+	 	color: white;
+	 	height: 800px;
+	 	padding-top: 100px;
+	 	margin-bottom: 1.5em;
+    }
+}
+@media only screen and (min-width : 536px) and (max-width : 768px){
+    #contactimage {
+	 	background-image: url(../img/contact-769.jpg);
+	    background-attachment: fixed;
+	    background-size: cover;
+	    color: white;
+	    padding:100px;
+	    padding-top: 50px;
+	    height: 800px;
+	}
+	#collapseOne {
+		background-image: url(../img/havana-capitolio-768.jpg);
+	    background-attachment: fixed;
+	    background-size: cover;
+		color: white;
+		font-size: 1.1em !important;
+	    padding:20px;
+	    padding-top: 50px;
+	 	margin-bottom: 1.5em;
+	}
+	#collapseOne a, #collapseTwo a, #collapseThree a, #collapseFour a {
+		color: yellow;
+	}
+}
+
+@media only screen and (min-width : 769px) and (max-width : 1025px){
+	#verein {
+	padding-top: 50px !important;		
+	}
+    #contactimage {
+	 	background-image: url(../img/contact-md.jpg);
+	    background-attachment: fixed;
+	    background-size: cover;
+	    color: white;
+	    padding:100px;
+	    padding-top: 50px;
+	    height: 800px;
+	}
+	#collapseOne {
+		background-image: url(../img/havana-capitolio-1024.jpg);
+	    background-attachment: fixed;
+	    background-size: cover;
+		color: white;
+		font-size: 1.22em !important;
+	    padding:20px;
+	    padding-top: 50px;
+	    height: 800px;
+	 	font-size: 1.25em;
+	 	margin-bottom: 1.5em;
+	}
+	#collapseOne a, #collapseTwo a, #collapseThree a, #collapseFour a {
+		color: yellow;
+	}
+}
+
+@media only screen and (max-width : 400px) {
+    .desktop-img {
+        display: none !important;
+    }
+    .tablet-img {
+        display: none !important;
+    }
+    .smartphone-img {
+        display: block !important;
+    }
+	#dance img src {
+		display: none !important;
+	}
+}
+
+@media only screen and (max-width : 535px) {
+	#downloadimage {
+    	background-image: url(../img/waterfall_535.jpg);
+	 	background-attachment: fixed;
+	 	background-size: cover;
+	 	background-repeat: no-repeat;
+	 	color: white;
+	 	height: 800px;
+	 	padding-top: 100px;
+	 	margin-bottom: 1.5em;
+    }
+    #contactimage {
+	 	background-image: url(../img/contact-535.jpg);
+	    background-attachment: fixed;
+	    background-size: cover;
+	    color: white;
+	    padding:100px;
+	    padding-top: 50px;
+	    height: 800px;
+	}
+	#collapseOne {
+		background-image: url(../img/havana-capitolio-535.jpg);
+	    background-attachment: fixed;
+	    background-size: cover;
+		color: white;
+	    padding:20px;
+		font-size: 0.96em !important;
+	    padding-top: 50px;
+	    height: 800px;
+	 	font-size: 1.25em;
+	 	margin-bottom: 1.5em;
+	}
+	#collapseOne a, #collapseTwo a, #collapseThree a, #collapseFour a {
+		color: yellow;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+	#dance img {
+		display: none !important;
+	}
+	#aims-satzung {
+	padding-top: 5px !important;
+	}
+	#aims-list {
+		margin: auto -25px !important;
+	}
+}
+@media screen and (max-width: 768px) {
+	#carousel-example-generic {
+		margin-top: -30px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+	#memberright {
+		padding-top: 40px;
+	}
+
+	#logo {
+		top: 5px !important;
+	}
+}
+
+@media screen and (min-width : 569px) and (max-width: 668px) {
+	#member > h3 {
+		margin-top: -34px;
+	}
+	#member > h1 {
+		margin-top: -50px;
+	}
+}
+
+@media screen and (max-width: 568px) {
+	#mitglied {
+		margin-top: -60px!important;
+		font-size: 0.83em!important;
+	}
+}
+
+@media screen and (max-width: 476px) {
+	#mitglied {
+		font-size: 0.7em!important;
+	}
+}
+
+
+@media only screen and (max-width : 1094px) {
+	.perceptika {
+		display: none;
+	}
+}
+
+@media only screen and (max-width : 930px) {
+	#hometitle{
+		display: none;
+	}
+}
+
+@media only screen and (max-width : 827px) {
+	#centretitle{
+		display: none;
+	}
+}
